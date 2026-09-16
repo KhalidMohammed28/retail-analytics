@@ -116,14 +116,14 @@ Five independent checks point to the same conclusion. Each is reproducible from 
 
 **1. Executive Overview** — Revenue, orders, AOV and active customers as KPI cards. Monthly revenue trend with an average reference line. Revenue by department. Top 10 categories. Date and department slicers.
 
-![Product Analysis](images/02_product_analysis.png)
+![Executive Overview](images/01_executive_overview.png)
 
 **2. Product Analysis** — Top 10 products by revenue. Category treemap with a revenue-driven colour gradient. Revenue by price band. Product detail table showing the revenue/volume divergence.
 
-![Customer Insights](images/03_customer_insights.png)
+![Product Analysis](images/02_product_analysis.png)
 
 **3. Customer Insights** — Top 10 states and top 10 cities by revenue. Top 20 customers keyed on `customer_id`. Repeat rate and revenue per customer.
-
+![Customer Insights](images/03_customer_insights.png)
 ---
 
 ## SQL techniques demonstrated
